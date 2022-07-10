@@ -12,7 +12,7 @@
 
 # Working
 
-- First Frame or Dashboard
+# First Frame or Dashboard
   - user gets two options login or create new account.
   - if the user is new, create new account.
   - else go to login.
@@ -21,7 +21,7 @@
 
 
 
-- Login Page
+# Login Page
   - user needs to enter username and password to login into their account.
   - if the username or password doesn't matches, error message will be displayed there.
 
@@ -29,17 +29,17 @@
 
 
 
-- Creat new account page
+# Creat new account page
 
 ![new_account](https://user-images.githubusercontent.com/87830353/178159752-00f771dd-2a24-4866-a6c7-770a8c726bce.JPG)
 
-- Atm UI page
+# Atm UI page
   - three options are given - D -> Deposit, W -> Withdrawal, B -> Balance, X -> Exit.
 
 ![image](https://user-images.githubusercontent.com/87830353/178160048-81595f69-0341-4755-97c0-db9a21ec2647.png)
 
 
 
-- Exit page
+# Exit page
 
 ![end_frame](https://user-images.githubusercontent.com/87830353/178159760-212a4ec4-71e4-4159-b43d-548e3926ae4a.JPG)
