@@ -19,11 +19,15 @@
 
 ![dashboard](https://user-images.githubusercontent.com/87830353/178159742-7ecfeef5-265a-4a51-9253-53baea86db16.JPG)
 
+
+
 - Login Page
   - user needs to enter username and password to login into their account.
   - if the username or password doesn't matches, error message will be displayed there.
 
 ![login](https://user-images.githubusercontent.com/87830353/178159745-eb08d504-29b4-424f-b752-54041d009fe7.JPG)
+
+
 
 - Creat new account page
 
@@ -33,6 +37,8 @@
   - three options are given - D -> Deposit, W -> Withdrawal, B -> Balance, X -> Exit.
 
 ![image](https://user-images.githubusercontent.com/87830353/178160048-81595f69-0341-4755-97c0-db9a21ec2647.png)
+
+
 
 - Exit page
 
