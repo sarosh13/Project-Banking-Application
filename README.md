@@ -30,9 +30,9 @@
 ![new_account](https://user-images.githubusercontent.com/87830353/178159752-00f771dd-2a24-4866-a6c7-770a8c726bce.JPG)
 
 - Atm UI page
-  - three options are given D -> Deposit, W -> Withdrawal, B -> Balance, ... -> Exit
+  - three options are given - D -> Deposit, W -> Withdrawal, B -> Balance, X -> Exit.
 
-![cash](https://user-images.githubusercontent.com/87830353/178159756-ad1f8c7c-7e59-448b-9a1a-34e2b9a2ed3a.JPG)
+![image](https://user-images.githubusercontent.com/87830353/178160048-81595f69-0341-4755-97c0-db9a21ec2647.png)
 
 - Exit page
 
